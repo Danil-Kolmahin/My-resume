@@ -1,0 +1,9 @@
+{
+  "name": "my-resume",
+  "description": "My resume",
+  "main": "index.html",
+  "author": "Kolmahin Danil",
+  "devDependencies": {
+    "prettier": "^2.3.1"
+  }
+}
